@@ -28,12 +28,12 @@ I love talking to people and am always enthusiastic about learning new things! �
 
 ## ✨ Portfolio Highlights
 Feel free to check out my live projects:
-- [💼 Portfolio Website](https://nikhitha-bijjala-portfolio.com) 
+- [💼 Portfolio Website](https://nikhitha-portfolio.vercel.app/#/) 
 
 ## 📬 Connect with Me
 
 
 - [LinkedIn](https://www.linkedin.com/in/nikhitha-bijjala)
-- Email: nikhitha.bijjala@example.com
+- Email: bijjalanikhitha@gmail.com
 
 ---
