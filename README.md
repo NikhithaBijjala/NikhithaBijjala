@@ -15,23 +15,11 @@ Hi there! 👋 Thank you for checking my profile. I am a passionate **Full Stack
 ---
 
 ## 🛠️ Technical Skills
-### Front-End
-- **Languages**: HTML5, CSS3, JavaScript (ES6+), TypeScript
-- **Frameworks**: React.js, AngularJS, Redux, Material UI, Bootstrap
 
-### Back-End
-- **Languages**: Java, Python, C#, Node.js
-- **Frameworks**: Spring Boot, .NET, Express.js
-
-### Databases
-- **Relational**: SQL, PostgreSQL, Oracle, MySQL
-- **NoSQL**: MongoDB
-
-### Tools & Platforms
-- **Cloud**: AWS, Azure
-- **Testing**: Jest, JUnit, Selenium, Postman
-- **Version Control**: Git, GitHub
-- **Other**: Webpack, Babel, GraphQL, RESTful APIs, Microservices
+- **Front-End**: HTML5, CSS3, JavaScript (ES6+), React.js, AngularJS
+- **Back-End**: Java, Python, Node.js, Spring Boot, Express.js
+- **Databases**: SQL, PostgreSQL, MongoDB
+- **Tools**: AWS, Git, Docker
 
 ---
 
