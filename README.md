@@ -1,4 +1,4 @@
-# 👩‍💻 Nikhitha Bijjala - Software Developer Portfolio
+# 👩‍💻 Nikhitha Bijjala - Full Stack Developer 
 
 ![Developer GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
@@ -48,16 +48,21 @@ Hi there! 👋 Welcome to my portfolio repository. I am a passionate **Full Stac
 
 ## ✨ Portfolio Highlights
 Feel free to check out my live projects and GitHub repositories:
-- [💼 Portfolio Website](https://nikhitha-bijjala-portfolio.com) *(Replace with your link)*
-- [📂 GitHub Projects](https://github.com/nikhitha-bijjala)
+- [💼 Portfolio Website](https://nikhitha-bijjala-portfolio.com) 
+- [📂 GitHub Projects](https://github.com/NikhithaBijjala)
 
 ---
 
 ## 📬 Connect with Me!
 I’m always open to networking and collaborating! 🌐  
-- [🔗 LinkedIn](https://www.linkedin.com/in/nikhitha-bijjala) *(Replace with your link)*
-- 📧 Email: nikhitha.bijjala@example.com *(Replace with your email)*
+- [🔗 LinkedIn](https://www.linkedin.com/in/nikhitha-bijjala) 
+- 📧 Email: bijjalanikhitha@gmail.com
 
 ---
+
+🎯 Fun Fact
+I love talking to people and am always enthusiastic about learning new things! 🌟 Whether it’s brainstorming innovative ideas or diving into new technologies, I’m always up for a good conversation. 😊
+
+
 
 
