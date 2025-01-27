@@ -32,8 +32,8 @@ Feel free to check out my live projects:
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/linkedin.svg)](https://www.linkedin.com/in/nikhitha-bijjala-54874618b/)
-[![GitHub](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/github.svg)](https://github.com/NikhithaBijjala)
-[![Email](mailto:bijjalanikhitha@gmail.com)
+
+- [LinkedIn](https://www.linkedin.com/in/nikhitha-bijjala)
+- Email: nikhitha.bijjala@example.com
 
 ---
