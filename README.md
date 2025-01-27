@@ -24,16 +24,17 @@ Hi there! 👋 Thank you for checking my profile. I am a passionate **Full Stack
 ---
 
 ## ✨ Portfolio Highlights
-Feel free to check out my live projects and GitHub repositories:
+Feel free to check out my live projects:
 - [💼 Portfolio Website](https://nikhitha-bijjala-portfolio.com) 
-- [📂 GitHub Projects](https://github.com/NikhithaBijjala)
+--
 
----
 
-## 📬 Connect with Me!
-I’m always open to networking and collaborating! 🌐  
-- [🔗 LinkedIn](https://www.linkedin.com/in/nikhitha-bijjala-54874618b/) 
-- 📧 Email: bijjalanikhitha@gmail.com
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhitha-bijjala)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhitha.bijjala@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhitha-bijjala)
+
 
 ---
 
