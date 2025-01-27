@@ -2,8 +2,8 @@
 
 ![Developer GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
+Hi there! 👋 Thank you for checking out my profile. I am a passionate Full-Stack Developer with over three years of experience building web and mobile applications. I enjoy solving complex problems, optimizing code, and delivering scalable, maintainable solutions.
 
-Hi there! 👋 Thank you for checking my profile. I am a passionate **Full Stack Developer** with over 3 years of experience in building web and mobile applications. I enjoy solving complex problems, optimizing code, and delivering scalable, maintainable solutions.
 ---
 
 ## 🚀 About Me
@@ -32,8 +32,8 @@ Feel free to check out my live projects:
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/linkedin.svg)](https://www.linkedin.com/in/nikhitha-bijjala)
-[![GitHub](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/github.svg)](https://github.com/nikhitha-bijjala)
-[![Email](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/gmail.svg)](mailto:bijjalanikhitha@gmail.com)
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/linkedin.svg)](https://www.linkedin.com/in/nikhitha-bijjala-54874618b/)
+[![GitHub](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/github.svg)](https://github.com/NikhithaBijjala)
+[![Email](mailto:bijjalanikhitha@gmail.com)
 
 ---
