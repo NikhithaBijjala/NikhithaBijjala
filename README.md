@@ -49,7 +49,7 @@ I’m always open to networking and collaborating! 🌐
 
 ---
 
-🎯 Fun Fact
+##🎯 Fun Fact
 I love talking to people and am always enthusiastic about learning new things! 🌟 Whether it’s brainstorming innovative ideas or diving into new technologies, I’m always up for a good conversation. 😊
 
 
