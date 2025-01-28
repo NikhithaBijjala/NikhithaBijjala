@@ -2,9 +2,7 @@
 
 ![Developer GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-Hi there! 👋 Thank you for checking out my profile. I am a passionate Full-Stack Developer with over three years of experience building web and mobile applications. I enjoy solving complex problems, optimizing code, and delivering scalable, maintainable solutions.
-
----
+Hi there! 👋 Thank you for checking out my profile.
 
 ## 🚀 About Me
 - 🎓 **Master's in Computer Science**, University at Albany (Graduating Dec 2024)
