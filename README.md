@@ -9,6 +9,7 @@ Hi there! 👋 Thank you for checking out my profile.
 - 💻 Full Stack Development | Front-End Development | Back-End APIs
 - 🌟 Passionate about building interactive, user-friendly web applications
 - 🌐 Looking for full-time opportunities in **Software Development**
+- ✨ Explore my work through this portfolio link : [NikhithaBijjala.com](https://nikhitha-portfolio.vercel.app/#/))."
   
 ## 🎯 Fun Fact
 I love talking to people and am always enthusiastic about learning new things! 🌟 Whether it’s brainstorming innovative ideas or diving into new technologies, I’m always up for a good conversation. 😊
@@ -24,12 +25,7 @@ I love talking to people and am always enthusiastic about learning new things! �
 
 ---
 
-## ✨ Portfolio Highlights
-Feel free to check out my live projects:
-- [💼 Portfolio Website](https://nikhitha-portfolio.vercel.app/#/) 
-
 ## 📬 Connect with Me
-
 
 - [LinkedIn](https://www.linkedin.com/in/nikhitha-bijjala)
 - Email: bijjalanikhitha@gmail.com
