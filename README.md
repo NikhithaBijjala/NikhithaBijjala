@@ -25,9 +25,3 @@ I love talking to people and am always enthusiastic about learning new things! ð
 
 ---
 
-## ðŸ“¬ Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/bnikhitha09/)
-- Email: bnikhitha09@gmail.com
-
--
